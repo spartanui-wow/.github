@@ -1,6 +1,6 @@
 # SpartanUI
 
-We build World of Warcraft addons that improve your gameplay experience — from a full interface overhaul to focused quality-of-life tools.
+World of Warcraft addons that improve your gameplay experience — from a full interface overhaul to focused quality-of-life tools.
 
 [![Discord](https://img.shields.io/discord/265564257347829771.svg?logo=discord&style=for-the-badge&label=Discord)](https://discord.gg/Qc9TRBv)
 [![Patreon](https://img.shields.io/badge/Patreon-Support-important?style=for-the-badge&logo=Patreon)](https://www.patreon.com/SpartanUI)
