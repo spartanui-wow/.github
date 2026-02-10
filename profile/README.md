@@ -8,6 +8,14 @@ World of Warcraft addons that improve your gameplay experience — from a full i
 
 ---
 
+### Developer Tools
+
+| Project | Description |
+|---|---|
+| **[wow-api-mcp](https://github.com/spartanui-wow/wow-api-mcp)** | MCP server for World of Warcraft API data — functions, deprecations, enums, events, widgets. Used with AI coding assistants for WoW addon development. |
+
+---
+
 ## Addons
 
 ### SpartanUI — Complete Interface Overhaul
@@ -48,14 +56,6 @@ Standalone addons with focused functionality. "Libs" is a brand name, not short 
 | **BetterBags - Mists Remix** | BetterBags plugin for filtering gems and usable items in Mists of Pandaria Remix | [![CF](https://img.shields.io/badge/CF-Download-F16436?style=flat-square)](https://www.curseforge.com/wow/addons/betterbags-mistsremix) [![Wago](https://img.shields.io/badge/Wago-Download-C1272D?style=flat-square)](https://addons.wago.io/addons/qGYMkMGg) |
 | **SpartanUI Animated** | Animated artwork textures for SpartanUI themes | [![CF](https://img.shields.io/badge/CF-Download-F16436?style=flat-square)](https://www.curseforge.com/wow/addons/spartanui-animated) [![Wago](https://img.shields.io/badge/Wago-Download-C1272D?style=flat-square)](https://addons.wago.io/addons/b6XVZwGp) |
 | **FunFact** | Entertain (or annoy) your friends, party, raid, or guild with random fun facts | [![CF](https://img.shields.io/badge/CF-Download-F16436?style=flat-square)](https://www.curseforge.com/wow/addons/funfact) [![Wago](https://img.shields.io/badge/Wago-Download-C1272D?style=flat-square)](https://addons.wago.io/addons/J96EYg6g) |
-
----
-
-### Developer Tools
-
-| Project | Description |
-|---|---|
-| **[wow-api-mcp](https://github.com/spartanui-wow/wow-api-mcp)** | MCP server for World of Warcraft API data — functions, deprecations, enums, events, widgets. Used with AI coding assistants for WoW addon development. |
 
 ---
 
