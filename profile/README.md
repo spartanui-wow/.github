@@ -18,7 +18,7 @@ World of Warcraft addons that improve your gameplay experience — from a full i
 
 ## Addons
 
-### SpartanUI — Complete Interface Overhaul
+### [SpartanUI](https://github.com/spartanui-wow/SpartanUI) — Complete Interface Overhaul
 
 A comprehensive, modular UI replacement that moves interface elements to the bottom of your screen. Includes unit frames, artwork themes, minimap, tooltips, buff management, auto-sell, and much more.
 
